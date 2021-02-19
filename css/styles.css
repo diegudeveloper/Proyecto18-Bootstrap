@@ -7,14 +7,15 @@
 }
 
 .btn-platzi {
-    background-color: #97c93e;
-    color: white;
+    background-color: #97c93e !important;
+    color: white !important;
 }
 
 .btn-platzi:hover{
-    background-color: #82ad36;
+    background-color: #82ad36 !important;
     color: white;
 }
+
 
 #main_carousel .carousel-inner img {
     width: 100%;
