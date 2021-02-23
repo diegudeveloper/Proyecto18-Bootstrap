@@ -45,3 +45,12 @@
     align-items: center;
     display: grid;
 } 
+
+#place-time {
+    background-color: #343a40;
+    color: #fff;
+}
+
+#place-time img {
+    max-width: 100% ;
+}
