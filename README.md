@@ -16,13 +16,13 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 18](https:
 <details>
     <summary>🖥 Desktop version</summary>
 
-![]()
+![](https://github.com/diegudeveloper/Proyecto18-Bootstrap/blob/gh-pages/img/desktop.png)
 
 </details>
 
 <details>
     <summary>📱 Mobile version</summary>
     
-![]()
+![](https://github.com/diegudeveloper/Proyecto18-Bootstrap/blob/gh-pages/img/mv.png)
 
 </details>
